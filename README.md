@@ -1,5 +1,5 @@
-   Hi there 👋 I'm Philip A.K.A Switch 
-   PhilipSwitch is a ✨ _special_ ✨ repository 
+   Hi there 👋 I'm Philip 
+   This is a ✨ _special_ ✨ repository 
    Below are some cool stuff about me
 - 🔭 I’m currently working on the next big thing
 - 🌱 I’m currently learning low level systems programming
